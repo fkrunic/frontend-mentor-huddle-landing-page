@@ -13,6 +13,11 @@ export default {
       'poppins': 'Poppins, sans-serif',
       'open-sans': 'Open Sans, sans-serif'
     },
+    colors: {
+      white: 'hsl(0, 0%, 100%)',
+      violet: 'hsl(257, 40%, 49%)',
+      'soft-magenta': 'hsl(300, 69%, 71%)'
+    },
     extend: {},
   },
   plugins: [],
