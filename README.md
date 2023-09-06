@@ -1,0 +1,2 @@
+# Huddle Landing Page
+This is an implementation of [Huddle Landing Page](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) using Vue and TailwindCSS. 
